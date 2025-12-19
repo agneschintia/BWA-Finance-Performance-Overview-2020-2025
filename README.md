@@ -59,6 +59,8 @@ Net Profit: Net Profit margin is 20.37%, beating goal of 16.70% by ~22%.”Title
 “Develop turnaround or exit plans for structurally underperforming markets/products.”
 
 ## Data and methodology
+<img width="666" height="652" alt="Finance BWA DM" src="https://github.com/user-attachments/assets/c9db69ed-010d-49a1-854d-7c0a05b1982f" />
+
 Data scope: Financial data for 2020–2025, aggregated at monthly or quarterly level, with breakdowns by market and division.
 
 Data model: Fact tables for financial transactions or aggregated P&L lines. Dimension tables for time, market (country/region), and division/product.
